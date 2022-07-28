@@ -1,0 +1,12 @@
+C:\Users\acarm\source\repos\chatService\server\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\acarm\source\repos\chatService\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\acarm\source\repos\chatService\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\acarm\source\repos\chatService\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\acarm\source\repos\chatService\server\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\acarm\source\repos\chatService\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\acarm\source\repos\chatService\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\chatService\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\acarm\source\repos\chatService\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\acarm\source\repos\chatService\server\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\acarm\source\repos\chatService\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\acarm\source\repos\chatService\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
